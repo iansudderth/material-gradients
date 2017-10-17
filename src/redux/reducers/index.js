@@ -1,5 +1,7 @@
 import { combineReducers } from "redux";
 
-const rootReducer = combineReducers({});
+import gradient from "./gradient_reducer";
+
+const rootReducer = combineReducers({ gradient });
 
 export default rootReducer;
