@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.6.0",
     "lodash": "^4.17.4",
     "material-ui": "next",
     "material-ui-icons": "^1.0.0-beta.17",
